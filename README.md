@@ -8,7 +8,7 @@
 |                                     PIZZAY                                      |                                       EuiMin Park                                       |
 | :---------------------------------------------------------------------------: |:---------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/108074336?v=4" width="200"/> |<img src="https://avatars.githubusercontent.com/u/108075531?v=4" width="200"/> |
-|                      [김유리](https://github.com/kimpizza)                      |                 [박의민](https://github.com/qkrmekem)                   | 
+|                      [김태이](https://github.com/kimpizz)                      |                 [박의민](https://github.com/qkrmekem)                   | 
 |카카오로그인, 게시판, MBTI 테스트 구현| 젤리정보, 리뷰 서비스, 네이버로그인 구현|
 ### Front End Developer 🧑🏼‍💻🧑🏻‍💻
 
